@@ -17,6 +17,8 @@ var i = 0;
 
 while(arr.length < facts.length) {
  arr.push(facts[i] + '!!!') 
+ 
+ i ++
 }
 
 return arr;
