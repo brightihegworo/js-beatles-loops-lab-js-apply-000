@@ -13,6 +13,8 @@ function johnLennonFacts(facts) {
   
 const arr = [];
 
+var 
+
 while(arr.length < facts.length) {
  arr.push(facts[i] + '!!!') 
 }
